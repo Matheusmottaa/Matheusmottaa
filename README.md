@@ -2,6 +2,6 @@
 
 ## About me 👻
 
-My name is Matheus Mota, i'm 21 years old. Currently i study Node and React, also i have a degree in electronics technician.  
+My name is Matheus Mota, i'm 21 years old. Currently i study Node, React, TDD and Desing patterns, also i have a degree in electronics technician.  
 
 

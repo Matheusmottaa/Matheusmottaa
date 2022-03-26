@@ -4,4 +4,8 @@
 
 My name is Matheus Mota, i'm 21 years old. I have a degree in electronics technician.  
 
+Tech: JavaScript | React | Node | TypeScript
+
+interested in: Elixir | Rust | Haskell | Ocalm | F#
+
 
